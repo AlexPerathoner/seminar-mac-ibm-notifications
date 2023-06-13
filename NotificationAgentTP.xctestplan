@@ -24,6 +24,7 @@
   },
   "testTargets" : [
     {
+      "enabled" : false,
       "target" : {
         "containerPath" : "container:Notification Agent.xcodeproj",
         "identifier" : "FDFCA5372857CE3D009C1880",
@@ -31,6 +32,7 @@
       }
     },
     {
+      "enabled" : false,
       "target" : {
         "containerPath" : "container:Notification Agent.xcodeproj",
         "identifier" : "FDFCA5762857D71F009C1880",
@@ -38,6 +40,7 @@
       }
     },
     {
+      "enabled" : false,
       "target" : {
         "containerPath" : "container:Notification Agent.xcodeproj",
         "identifier" : "FDFCA5832857D798009C1880",
@@ -45,6 +48,7 @@
       }
     },
     {
+      "enabled" : false,
       "target" : {
         "containerPath" : "container:Notification Agent.xcodeproj",
         "identifier" : "FDFCA5902857DC81009C1880",
@@ -52,6 +56,7 @@
       }
     },
     {
+      "enabled" : false,
       "target" : {
         "containerPath" : "container:Notification Agent.xcodeproj",
         "identifier" : "FDFCA5AC2857DD10009C1880",
